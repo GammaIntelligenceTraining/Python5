@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21d19501-4749-4574-97c4-b6ebc7db8a9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../011_mysql_connector/tester2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_collections_module/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../021_webdrivers/cv_ee_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../201_homeworks/003_pandas_stack_overflow/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../201_homeworks/003_pandas_stack_overflow/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../201_homeworks/005_regexp/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/colorama/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/colorama/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/colorama/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/colorama/tutorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/mat_plot_lib/3D_plotting/surface3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/mat_plot_lib/image_sample/image_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/.gitpod.dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/.gitpod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/get_pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/install_requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/path_finding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/path_finding/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/Assets/Grenade+1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/Assets/Gun+Silencer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/Assets/space.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/Assets/spaceship_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/Assets/spaceship_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/pygame/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/simple_libraries/pretty_table/pretty_tables_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/simple_libraries/url_shortener/url_shortener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../301_interesting_libraries/simple_libraries/wikipedia_module/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../013_itertools_module/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../013_itertools_module/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014_map_zip_methods/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../014_map_zip_methods/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../015_regular_exp/reg_exp_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../015_regular_exp/reg_exp_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../015_regular_exp/reg_exp_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../015_regular_exp/reg_exp_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../015_regular_exp/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../015_regular_exp/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../016_requests/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../016_requests/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../016_requests/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../016_requests/tester222.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../018_os_module/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../018_os_module/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../019_configparser_module/001_configparser_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/../019_configparser_module/001_configparser_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../019_configparser_module/002_configparser_add_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../019_configparser_module/002_configparser_add_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../019_configparser_module/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../019_configparser_module/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../019_configparser_module/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../020_email_sender/email_sender_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../020_email_sender/email_sender_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../020_email_sender/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../020_email_sender/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../021_webdrivers/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../021_webdrivers/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../022_tkinter/001_tkinter_sample_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../022_tkinter/001_tkinter_sample_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../022_tkinter/002_tkinter_grid_system_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../022_tkinter/002_tkinter_grid_system_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../022_tkinter/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../022_tkinter/lambda_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../022_tkinter/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../022_tkinter/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_part4_static_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_part4_static_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_part6_special_methods(magic).py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_part6_special_methods(magic).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../201_homeworks/004_mysql/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../201_homeworks/004_mysql/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../201_homeworks/005_regexp/people.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../201_homeworks/005_regexp/people.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../201_homeworks/005_regexp/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../201_homeworks/005_regexp/tester.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yOtbVYn5c4Hwhp87AWHD2vcQUv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d19501-4749-4574-97c4-b6ebc7db8a9b" name="Changes" comment="" />
+      <created>1632134533789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632134533789</updated>
+    </task>
+    <servers />
+  </component>
+</project>
